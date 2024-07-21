@@ -1,17 +1,29 @@
-# Areas of Responsibility
+---
+aliases: 
+cssclasses: 
+tags:
+  - note
+title: README
+linter-yaml-title: README
+date created: 2024-07-21T23:21:00
+date modified:
+---
+# README
+---
+# 责任领域
 
-> An area of responsibility is a sphere of activity with a standard to be maintained over time.
+> 责任领域是一个长期维持标准的活动范围。
 
-Examples include: Health; Finances, Professional Development; Travel; Hobbies; Friends; Apartment; Car; Productivity; Direct reports; Product Development; Writing
+示例包括：健康；财务；职业发展；旅行；爱好；朋友；公寓；汽车；生产力；直属报告；产品开发；写作
 
-## Flows from Areas
+## 责任领域流向
 
 ![Flows from Areas](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*i6ZAOt4zLMx5ljVmTdFM4A.jpeg)
 
-**To Projects**: It is common to start a new project, and realize there is something you’ve been collecting for a long time that is potentially useful to the new project. Maybe you’ve been collecting ideas in a Travel (area) notebook for awhile — when the time comes to plan and schedule a specific trip (a project), this is a great place to start. If you find one travel destination you want to take action on, you can move it to a brand spanking new “Bali” (project) notebook as the seed to get your planning started.
+**到项目**: 开启一个新的项目时，可能会发现您已经收集了一些东西，这些东西对新项目有潜在价值。也许您已经收集了旅行（领域）笔记很久了——当时间来临，需要计划和安排特定的旅程（项目）时，这是一个开始的地方。如果您找到一个旅游目的地，您可以将其移到一个新的“巴厘岛”（项目）笔记本中，以便开始规划。
 
-**To Resources**: As mentioned before, it’s a good idea to keep personally relevant information in Areas, and generally useful information in Resources. But sometimes you realize a note you thought was only relevant to you can also provide value to others. For example, I realized my personal time-tracking data, collected over years, might be useful to show others as an example. I moved it to a Quantified Self (resource) notebook so I was sure to see it in the future if I wanted to share useful resources with others.
+**到资源**: 如前所述，将个人相关信息存储在领域中，通常有用的信息存储在资源中。但是，有时您会发现一条笔记，只是对您的个人价值，但也可以为他人提供价值。例如，我意识到我的个人时间跟踪数据，收集了多年，可以作为他人的示例。我将其移到“量化自我”（资源）笔记本中，以便在将来如果想与他人分享有用的资源时能够看到。
 
-**To Archives**: Although it is rare, sometimes an area ceases to be active, and can be archived. I helped my dad with his business website for years, an area of responsibility that had an indefinite end date. But eventually I got too busy, and moved that area to Archives. This also applies to relationships, whether work or personal, which don’t usually have an exact end date, but can become inactive after a move or job change (or breakup).
+**到档案**: 尽管这是罕见的情况，但有时一个领域会停止活动，可以存档。我的父亲需要我帮助他的业务网站很多年，这是一个责任领域的无限期限。我最终太忙了，将该领域移到档案中。这也适用于关系，无论是工作还是个人关系，它们通常不具有确切的结束日期，但可以在搬迁或工作变化（或分手）后变为不活动。
 
-_From [PARA Part 2: Operations Manual](https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/)_
+《[PARA Part 2: Operations Manual](https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/)_ 》
