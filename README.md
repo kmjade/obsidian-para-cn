@@ -1,119 +1,131 @@
+---
+aliases:
+  - "[readme, 读我]"
+cssclasses: 
+tags:
+  - note
+  - readme
+title: README
+linter-yaml-title: README
+date created: 2024-07-21T20:56:00
+date modified: 2024-07-21T22:41:00
+---
+# README
+---
+
 # Obsidian PARA
 
-[View on Medium](https://b-yarbrough.medium.com/obsidian-and-para-are-the-perfect-pairing-together-you-can-remember-connect-and-create-7a87c8882de5)
+[Medium 视图](https://b-yarbrough.medium.com/obsidian-and-para-are-the-perfect-pairing-together-you-can-remember-connect-and-create-7a87c8882de5)
 
-Obsidian and PARA are the perfect pairing. Together, you can Remember, Connect, and Create. It is a universal organization system, designed to keep your knowledge approachable and actionable.
+Obsidian 和 PARA 是完美的组合。一起，您可以记忆、连接和创造。这是一个通用的组织系统，旨在使您的知识变得可访问和有行动力。
 
-With Obsidian and PARA, you keep all of your information in plaintext files, and the entire hierarchy is four categories wide (projects, areas, resources, archives), and no more than four levels deep (Obsidian > vault > folders > notes).
+使用 Obsidian 和 PARA，您将所有信息存储在 plaintext 文件中，而整个层次结构只有四个类别宽（项目、领域、资源、档案），且不超过四级深（Obsidian > vault > 文件夹 > 备忘录）。
 
-You download the Obsidian PARA starter kit [here](https://github.com/byarbrough/obsidian-para/archive/refs/heads/main.zip) or with git.
+您可以从这里下载 Obsidian PARA starter kit [here](https://github.com/byarbrough/obsidian-para/archive/refs/heads/main.zip) 或使用 Git。
 
-## What is PARA
+## PARA 是什么
 
-> [P.A.R.A.](https://fortelabs.co/blog/para/) stands for Projects — Areas — Resources — Archives, the four top-level categories that encompass every type of information you might encounter in your work and life. It was designed by Tiago Forte to be a universal organization system.
+> [P.A.R.A.](https://fortelabs.co/blog/para/) 的缩写是项目（Projects）— 领域（Areas）— 资源（Resources）— 档案（Archives），这四个顶级类别包含了您可能在工作和生活中遇到的所有类型信息。它是 Tiago Forte 设计的通用组织系统。
 
-Each of the four folders is actionable. Projects contain discrete goals with specified time horizons, while Archives may sit dormant for months.
+每个四个 PARA 文件夹都是可操作的。项目文件夹包含具有指定时间表的明确目标，而档案文件夹可能会长期不活动。
 
-There is only ever one folder below each of these four PARA folders! This way you never can remember where things are, rather than drilling down though umpteen layers.
+从不超过每个文件夹下只有一个子文件夹！这样，您就不会迷失在层次结构中，而是可以轻松地访问所有信息。
 
-![Definitions of P.A.R.A. components](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*i6I0M5kaZUOwIfq5q5W4mQ.jpeg)
+![P.A.R.A. 组件定义](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*i6I0M5kaZUOwIfq5q5W4mQ.jpeg)
 
-A **project** is “a series of tasks linked to a goal, with a deadline.”
+**项目** 是“目标的系列任务，具有截止日期。”
 
-Examples include: Complete app mockup; Develop project plan; Execute business development campaign; Write blog post; Finalize product specifications; Attend conference
+示例包括：完成应用程序 mockup；开发项目计划；执行商业发展活动；写博客文章；最终确定产品规格；出席会议
 
-An **area of responsibility** is “a sphere of activity with a standard to be maintained over time.”
+**领域责任** 是“长期维持标准的活动范围。”
 
-Examples include: Health; Finances, Professional Development; Travel; Hobbies; Friends; Apartment; Car; Productivity; Direct reports; Product Development; Writing
+示例包括：健康；财务；职业发展；旅行；嗜好；朋友；公寓；汽车；生产力；直属报告；产品开发；写作
 
-A **resource** is “a topic or theme of ongoing interest.”
+**资源** 是“持续关心的话题或主题.”
 
-Examples include: habit formation; project management; transhumanism; coffee; music; gardening; online marketing; SEO; interior design; architecture; note-taking
+示例包括：习惯形成；项目管理；超人主义；咖啡；音乐；园艺；在线营销；SEO；室内设计；建筑；笔记记录
 
-**Archives** include “inactive items from the other three categories.”
+**档案** 包括“来自其他三个类别的无效项。”
 
-Examples include: projects that have been completed or become inactive; areas that you are no longer committed to maintaining; resources that you are no longer interested in
+示例包括：已经完成或变为无效的项目；您不再维持的领域责任；您不再感兴趣的资源。
 
-### Progressive Summarization
+### 逐步总结
 
-PARA intends to enable you to **Remember**, **Connect**, and **Create**.
+PARA旨在使您能够**记忆**、**连接**和**创造**。
 
-![Information flows within P.A.R.A.](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*qng-pJJUdoENmYs_3HiISg.jpeg)
+![P.A.R.A. 中信息流动](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*qng-pJJUdoENmYs_3HiISg.jpeg)
 
-You should be able to capture ideas worth saving, opportunistically connect those ideas with other ideas, and then use your curated, layered knowledge base to create content you enjoy and is valuable.
+您应该能够捕捉值得保存的想法，随机连接这些想法与其他想法，并使用您的精心整理、层次化知识库来创造您喜欢且有价值的内容。
 
-You accomplish this via [Progressive Summarization](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes). This is a strategy that answers the question, "How do I make what I’m consuming right now easily discoverable for my future self?”
+通过[逐步总结](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes)，您可以实现这一点。这是一种策略，回答了问题：“如何使我现在消费的内容变得容易发现我的未来自我？”
 
-The core of Progressive Summarization is that every time you interact with a note, you compress it just a little more. As you compress it, you loose some of the original context, but have the opportunity to connect it with other and new ideas.
+逐步总结的核心是，每当您与笔记交互时，您都会将其压缩一些。随着压缩，它会失去一些原始上下文，但您有机会将其连接到其他和新想法。
 
-For more information, see Forte's [Building a Second Brain Course](https://fortelabs.co/blog/basboverview/) and his [Progressive Summarization](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes) post.
+更多信息，请见 Forte 的[Building a Second Brain Course](https://fortelabs.co/blog/basboverview/) 和 [Progressive Summarization](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes) 文章。
 
-## Why Obsidian
+## 为什么选择 Obsidian
 
-> [Obsidian](https://obsidian.md/) is a powerful **knowledge base** on top of
-a **local folder** of plain text Markdown files.
+> [Obsidian](https://obsidian.md/) 是一个基于本地文件夹的 Markdown 文件知识库。
 
-It is available for Windows, macOS, Linux, Android, and iPhone.
+它支持 Windows、macOS、Linux、Android 和 iPhone。
 
-![Obsidian Screenshot](https://obsidian.md/images/screenshot.png)
+![Obsidian 界面截图](https://obsidian.md/images/screenshot.png)
 
-Here are the key features that make Obsidian the best choice for PARA:
+以下是 Obsidian 的关键特性，为什么选择它：
 
-1. **Tags and links are first-class.** The human brain is non-linear: we jump from idea to idea, all the time. Your second brain should work the same. Graph view allows you to explore links.
-2. **Easily searchable.** You can instantly search all of your files to find phrases or keywords.
-3. **Never worry about being locked-in.** Files are plain Markdown and stored locally. So if you ever decide to use a different editor, you don't need to hope that you'll be able to export them from a proprietary format.
-4. **Beauty and simplicity**. The editor is simple, yet powerful, giving you more space for your thoughts and less for distractions. Plus, with extensible plugins, you can customize it to fit you.
-5. **Sync across all your devices.** Seamless synchronization across your computers and mobile devices. The files are encrypted, so only you can read them.
+1. **标签和链接都是首等级**。人类大脑非线性：我们跳跃于想法之间，时刻如此。图形视图允许您探索链接。
+2. **轻松搜索**。您可以立即搜索所有文件以找到短语或关键词。
+3. **不需要担心被锁定**。文件是 plain Markdown，存储在本地。因此，如果您决定使用不同的编辑器，您不需要担心无法从专有格式中导出它们。
+4. **美观和简单**。编辑器是简单的，但功能强大，让您更多空间思考，少一些干扰。并且，可以根据您的需求自定义插件，以适合您。
+5. **跨设备同步**。无缝同步所有计算机和移动设备。文件加密，只有您可以阅读它们。
 
-## How to use this repository
+## 使用本仓库的步骤
 
-First, [download this repository](https://github.com/byarbrough/obsidian-para/archive/refs/heads/main.zip) and extract it to where you want your vault to be located.
+首先，[下载本仓库](https://github.com/byarbrough/obsidian-para/archive/refs/heads/main.zip)并将其提取到您想要存储 vault 的位置。
 
-Consider placing the folder in a location that is automatically backed up, such as to iCloud or GoogleDrive.
+考虑将文件夹置于自动备份的位置，如 iCloud 或 GoogleDrive。
 
-If using `git`, then change the `remote` to your repository before using the [obsidian-git](https://github.com/denolehov/obsidian-git) plugin (which doesn't work with Snaps, sadly)... if that was gibberish, then just delete the `.git/` hidden folder.
+如果使用 `git`，则更改 `remote` 到您的仓库，然后使用 [obsidian-git](https://github.com/denolehov/obsidian-git) 插件（不支持 Snaps，遗憾的是）。如果这句话对您来说是 gibberish，那么 simply delete the `.git/` hidden folder。
 
-### Obsidian Setup
+### Obsidian 设置
 
-[Install Obsidian](https://obsidian.md/).
+[安装 Obsidian](https://obsidian.md/)。
 
-Open Obsidian and choose “Open folder as vault.”
+打开 Obsidian 并选择“Open folder as vault”。
 
 ![Open folder as vault](images/obsidian-folder-as-vault.png)
 
-Open this folder.
+打开这个文件夹。
 
-The settings for your vault are saved in the hidden folder `.obsidian/`. Currently, several core plugins are enabled. All community plugins and themes are disabled. You can change this in settings.
+vault 的设置保存在隐藏的文件夹 `.obsidian/` 中。当前，多个核心插件已启用。所有社区插件和主题都禁用。你可以在设置中更改这项。
 
-Purchasing and setting up [Obsidian Sync](https://obsidian.md/sync) is highly recommended if you are using Obsidian on multiple devices.
+如果您使用 Obsidian 在多个设备上，请务必购买并设置 [Obsidian Sync](https://obsidian.md/sync)。
 
-#### Templates
+#### 模板
 
-The `templates/` directory contains templates that can be used to standardize headers in your files.
+`templates/` 目录包含可用于标准化文件头的模板。
 
-To insert a template, create a new file, name it, and press `Ctrl + p`. Then begin typing "templates".
+要插入模板，创建一个新文件，命名它，然后按下 `Ctrl + p`。然后开始键入“templates”。
 
 ![Insert template command pallet](images/obsidian-insert-template.png)
 
-See the [Templates help](https://help.obsidian.md/Plugins/Templates) for more information.
+查看 [Templates help](https://help.obsidian.md/Plugins/Templates) 获取更多信息。
 
-### Migrate to PARA
+### 迁移到 PARA
 
-1. Create a folder in `4. Archives` with today's date. Then move all of your existing folders as is with the same existing hierarchy (remember it's not deleted)
-2. Create one folder for each of your current projects you’re working on in `1. Projects` (remember only one sub-folder to stay four levels deep)
-3. Create a goal for each of those Projects. If you cannot come up with a goal for it right now, then consider if it should really be under `2. Areas`
-4. If you already know some of your `2. Areas`, you can create the folders, but try not to have too many empty folders
-5. Do not create any folders in `3. Resources`, yet. As you read or discover things, create a sub-folder and add notes.
+1. 在 `4. Archives` 文件夹中创建一个日期文件夹，然后将所有现有文件夹移动到该文件夹中，保持原来的目录结构（记住它并不是删除）
+2. 在 `1. Projects` 文件夹中创建每个当前项目的文件夹（记住只有一级子文件夹）
+3. 为每个项目设置目标。如果您无法立即想到目标，那么考虑是否该项目应该在 `2. Areas` 中
+4. 如果您已经知道一些 `2. Areas`，可以创建对应的文件夹，但尽量不要有太多空文件夹
+5. 不要在 `3. Resources` 文件夹中创建任何文件夹。等到您读取或发现东西时再创建子文件夹并添加笔记。
 
-Each time you go into `4. Archives` to take one of the "old" notes or files, you then move it to the right spot in the new taxonomy. Doing it this way will highlight the most used notes, and what's left behind can stay in Archive until it's finally used (or not).
+每次您进入 `4. Archives` 将“老”笔记或文件移动到正确的位置。这将突出最常用的笔记，并留下未使用的内容直到它被实际使用（或不）。
 
-Once you have the folder hierarchy done, you want to copy it across all your other systems; that is where P.A.R.A. starts to shine. You want to have the same hierarchy for your local files on your computer, in your notes, in your Dropbox/Google Drive/iCloud, and everywhere else you have to keep information. Doing that will make it very quick and easy to find things you might need for work or something in the same zone across all your apps. For this reason, the more system you integrate the taxonomy into, the easier finding things will be.
+一旦您完成了文件夹结构，您就可以将其复制到所有其他系统中；这就是 P.A.R.A. 发挥作用的地方。您想要在计算机本地文件、notes、Dropbox/Google Drive/iCloud 等所有地方都有相同的文件夹结构。这样，您就可以轻松快速地找到需要的信息，无论是在工作还是在同一个领域中。因此，系统化您的_taxonomy_ 到所有应用程序中，这将使您更容易找到需要的信息。
 
-#### Setup tips
+#### 设置提示
 
-- If a note (or a file) can go into two different folders, you put it in the folder where you will **_most likely need it next_** since folders are based on actionability, and it will get moved anyway in the flow of things.
-- You can also have the "same" folder in 2 different roots. For example, `2. Areas/Health` and `3. Resources/Health` the first one is **_your_** health notes and the other **general** health-related notes.
-- Remember, you do **_not_** want to sort all your current notes and files and put them in the new folder, put them all in the Archive as is, and then move them out as you use them.
-- You do **_not_** have to do every single folder for your local files and cloud service; create the sub-folders are you need them, **_but_** you need to have one complete setup, most likely in your notes, to act as the primary reference for the others.
-
-You can also find a helpful thread on PARA in the Obsidian Forums.
+- 如果一笔记（或文件）可以放入两个不同的文件夹中，那么就将其放入您最可能需要它的地方，因为文件夹基于可执行性，并且它将被移动到您使用它时。
+- 您也可以在 2 个不同根目录下创建相同的文件夹。例如，`2. Areas/Health` 和 `3. Resources/Health`，前者是 **_your_** 健康笔记，而后者是 **general** 健康相关笔记。
+- 记住，您不需要将所有当前笔记和文件移动到新文件夹中；将它们都移到 Archive 中，然后在使用它们时移动它们。
+- 您也不需要在本地文件和云服务中创建每个文件夹；创建子文件夹是您需要它们时的做法，但您需要在 notes 中有一个完整的设置，以便其他地方作为主要参考。
