@@ -1,3 +1,15 @@
+---
+aliases: 
+cssclasses: 
+tags:
+  - note
+title: README
+linter-yaml-title: README
+date created: 2024-07-21T23:38:00
+date modified:
+---
+# README
+---
 # 资源
 
 > 资源是一个长期兴趣的主题或话题。
