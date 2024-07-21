@@ -1,5 +1,7 @@
 [
   "templater-obsidian",
   "copilot",
-  "dataview"
+  "dataview",
+  "quickadd",
+  "folder-note-plugin"
 ]
