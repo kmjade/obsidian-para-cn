@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "outgoing-link",
   "tag-pane",
   "page-preview",
@@ -11,8 +12,8 @@
   "note-composer",
   "command-palette",
   "editor-status",
+  "bookmarks",
   "markdown-importer",
   "random-note",
-  "open-with-default-app",
   "file-recovery"
 ]
