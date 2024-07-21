@@ -1,17 +1,29 @@
-# Archives
+---
+aliases: 
+cssclasses: 
+tags:
+  - note
+title: README
+linter-yaml-title: README
+date created: 2024-07-21T23:39:00
+date modified:
+---
+# README
+---
+# 档案
 
-> Archives include inactive items from the other three categories.
+> 档案包括其他三类别中无效项目。
 
-Examples include: projects that have been completed or become inactive; areas that you are no longer committed to maintaining; resources that you are no longer interested in
+示例包括：已经完成或变为无效的项目；您不再承诺维护的领域；您不再感兴趣的资源
 
-## Flows from Archives
+## 档案流向
 
 ![Flows from Archives](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*zQ_in_H577Rtg2N9-54A8Q.jpeg)
 
-**To Projects**: This use case is one of the primary reasons to keep archived projects in the first place. It makes sense that there would be useful information from past projects you could use in current and future projects. Whether it’s notes on a conference call with a repeat client, background research on an industry, or photos you took for a related design project, this is one of the primary ways you can use your accumulated “intellectual capital” to gain leverage over time.
+**到项目**: 这是一个主要原因保持档案项目的用途之一。理所当然，过去项目中有用的信息可以用于当前和未来项目。无论是与重复客户的电话会议笔记、行业背景研究还是相关设计项目中的照片，这都是您累积的“知识资本”在时间上获得优势的一种主要方式。
 
-**To Areas**: Similarly, a piece of information you collected long ago can suddenly become relevant for a new responsibility you’re taking on. Maybe your performance reviews from a past job could be useful for your new role managing others. Maybe a magazine clipping from a long-ago interior design project could spark an idea for upgrading your current apartment.
+**到领域**: 类似地，一些久远的信息突然变得有用对于新的责任。也许过去工作的绩效评估可以用于新角色管理他人。也许一个长期内设计项目中的杂志剪报可以激发升级当前公寓的想法。
 
-**To Resources**: I find it quite common for a past project, now archived, to keep simmering in the back of my mind, and later become an interest. Perhaps I do a consulting project that requires diving deep into a new industry — after that project is over, I may want to stay involved and keep an eye on new developments in that industry. Moving the relevant notes from the archived project notebook to a new resource notebook would be a great way to start doing so.
+**到资源**: 我发现过去项目现在档案中经常会在我脑海中 simmering，后来变成兴趣。也许我做了一份咨询项目，需要深入了解一个新行业——在这个项目结束后，我可能想要继续关注该行业的发展。将相关笔记从档案项目笔记本移到新的资源笔记本是一个很好的开始方式。
 
-_From [PARA Part 2: Operations Manual](https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/)_
+《[PARA Part 2: Operations Manual](https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/)_ 》
