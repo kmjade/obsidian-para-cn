@@ -20,63 +20,10 @@ Obsidian 和 PARA 组合。您可以记忆、连接和创造。这是一个通�
 使用 Obsidian 和 P.A.R.A.，您将所有信息存储在纯文本文件中，并且整个结构只有四个类别宽（项目、领域、资源和档案），且不超过三级深（Obsidian > 文件夹 >笔记）。
 
 您可以从这里下载 [obsidian-para-cn](https://github.com/kmjade/obsidian-para-cn.git)。
-## PARA 是什么
+## [[PARA 是什么]]
 
-> [!NOTE]
-> > [P.A.R.A.](https://fortelabs.co/blog/para/) 的缩写是项目（Projects）— 领域（Areas）— 资源（Resources）— 档案（Archives），这四个顶级类别包含了您可能在工作和生活中遇到的所有类型信息。它是蒂亚戈·福特（Tiago Forte）设计的通用组织系统。
-
-每个四个 PARA 文件夹都是可操作的。项目文件夹包含具有指定时间表的明确目标，而档案文件夹可能会长期不活动。
-
-从不超过每个文件夹下只有一个子文件夹！这样，您就不会迷失在层次结构中，而是可以轻松地访问所有信息。
-
-![P.A.R.A. 组件定义](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*i6I0M5kaZUOwIfq5q5W4mQ.jpeg)
-
-**项目** 是“目标的系列任务，具有截止日期。”
-
-示例包括：完成应用程序 mockup；开发项目计划；执行商业发展活动；写博客文章；最终确定产品规格；出席会议
-
-**领域责任** 是“长期维持标准的活动范围。”
-
-示例包括：健康；财务；职业发展；旅行；嗜好；朋友；公寓；汽车；生产力；直属报告；产品开发；写作
-
-**资源** 是“持续关心的话题或主题.”
-
-示例包括：习惯形成；项目管理；超人主义；咖啡；音乐；园艺；在线营销；SEO；室内设计；建筑；笔记记录
-
-**档案** 包括“来自其他三个类别的无效项。”
-
-示例包括：已经完成或变为无效的项目；您不再维持的领域责任；您不再感兴趣的资源。
-
-### 逐步总结
-
-PARA旨在使您能够**记忆**、**连接**和**创造**。
-
-![P.A.R.A. 中信息流动](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*qng-pJJUdoENmYs_3HiISg.jpeg)
-
-您应该能够捕捉值得保存的想法，随机连接这些想法与其他想法，并使用您的精心整理、层次化知识库来创造您喜欢且有价值的内容。
-
-通过[逐步总结](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes)，您可以实现这一点。这是一种策略，回答了问题：“如何使我现在消费的内容变得容易发现我的未来自我？”
-
-逐步总结的核心是，每当您与笔记交互时，您都会将其压缩一些。随着压缩，它会失去一些原始上下文，但您有机会将其连接到其他和新想法。
-
-更多信息，请见 Forte 的[Building a Second Brain Course](https://fortelabs.co/blog/basboverview/) 和 [Progressive Summarization](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes) 文章。
-
-## 为什么选择 Obsidian
-
-> [!NOTE]
-> > [Obsidian](https://obsidian.md/) 是一个基于本地文件夹的 Markdown 文件知识库。
-
-它支持 Windows、macOS、Linux、Android 和 iPhone。
-
-![Obsidian 界面截图](https://obsidian.md/images/screenshot.png)
-
-以下是 Obsidian 的关键特性，为什么选择它：
-
-1. **标签和链接都是首等级**。人类大脑非线性：我们跳跃于想法之间，时刻如此。图形视图允许您探索链接。
-2. **轻松搜索**。您可以立即搜索所有文件以找到短语或关键词。
-3. **不需要担心被锁定**。文件是 plain Markdown，存储在本地。因此，如果您决定使用不同的编辑器，您不需要担心无法从专有格式中导出它们。
-4. **美观和简单**。编辑器是简单的，但功能强大，让您更多空间思考，少一些干扰。并且，可以根据您的需求自定义插件，以适合您。
-5. **跨设备同步**。无缝同步所有计算机和移动设备。文件加密，只有您可以阅读它们。
+## [[PARA-定义]]
+## [[为什么选择 Obsidian]]
 
 ## 使用本仓库的步骤
 
@@ -85,20 +32,7 @@ PARA旨在使您能够**记忆**、**连接**和**创造**。
 考虑将文件夹置于自动备份的位置，如 百度云盘。
 
 如果使用 `git`，则更改 `remote` 到您的仓库，然后使用 [obsidian-git](https://github.com/denolehov/obsidian-git) 插件（不支持 Snaps，遗憾的是）。如果这句话对您来说是 gibberish，那么 simply delete the `.git/` hidden folder。
-
-### Obsidian 设置
-
-[安装 Obsidian](https://obsidian.md/)。
-
-打开 Obsidian 并选择“Open folder as vault”。
-
-![Open folder as vault](images/obsidian-folder-as-vault.png)
-
-打开这个文件夹。
-
-vault 的设置保存在隐藏的文件夹 `.obsidian/` 中。当前，多个核心插件已启用。所有社区插件和主题都禁用。你可以在设置中更改这项。
-
-如果您使用 Obsidian 在多个设备上，请务必购买并设置 [Obsidian Sync](https://obsidian.md/sync)。
+### [[Obsidian 设置]]
 
 #### 模板
 
@@ -106,7 +40,7 @@ vault 的设置保存在隐藏的文件夹 `.obsidian/` 中。当前，多个核
 
 要插入模板，创建一个新文件，命名它，然后按下 `Ctrl + p`。然后开始键入“templates”。
 
-![Insert template command pallet](images/obsidian-insert-template.png)
+![Insert template command pallet](obsidian-insert-template.png)
 
 查看 [Templates help](https://help.obsidian.md/Plugins/Templates) 获取更多信息。
 
